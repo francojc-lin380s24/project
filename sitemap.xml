@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://username.github.io/repo/process/1_acquire.html</loc>
-    <lastmod>2024-02-21T17:09:19.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://username.github.io/repo/process/2_curate.html</loc>
-    <lastmod>2024-02-21T17:09:18.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://username.github.io/repo/reports/presentations.html</loc>
-    <lastmod>2024-02-21T17:09:16.915Z</lastmod>
+    <loc>https://username.github.io/repo/reports/article.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
   </url>
   <url>
     <loc>https://username.github.io/repo/reports/prospectus.html</loc>
-    <lastmod>2024-02-21T17:09:15.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://username.github.io/repo/index.html</loc>
-    <lastmod>2024-02-21T17:09:11.752Z</lastmod>
-  </url>
-  <url>
-    <loc>https://username.github.io/repo/reports/slides/example.html</loc>
-    <lastmod>2024-02-21T17:09:13.896Z</lastmod>
-  </url>
-  <url>
-    <loc>https://username.github.io/repo/reports/article.html</loc>
-    <lastmod>2024-02-21T17:09:16.116Z</lastmod>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
   </url>
   <url>
     <loc>https://username.github.io/repo/process/3_transform.html</loc>
-    <lastmod>2024-02-21T17:09:17.561Z</lastmod>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
   </url>
   <url>
     <loc>https://username.github.io/repo/process/4_analyze.html</loc>
-    <lastmod>2024-02-21T17:09:18.844Z</lastmod>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://username.github.io/repo/index.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://username.github.io/repo/process/1_acquire.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://username.github.io/repo/process/2_curate.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://username.github.io/repo/reports/presentations.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://username.github.io/repo/reports/slides/example.html</loc>
+    <lastmod>2024-02-21T17:12:25.691Z</lastmod>
   </url>
 </urlset>
