@@ -4,7 +4,7 @@ title: "README"
 
 ## Project title
 
-> Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings. 
+> Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings. This should be a high-level summary of the project.
 
 ## Reproduce
 

@@ -22,11 +22,11 @@ website:
         contents: reports/*
     tools:
       - icon: github
-        href: https:://github.com
+        href: https://github.com/username/repo
 
 format:
   html:
-    theme: cosmo # Bootstrap theme for the site
+    theme: journal
     toc: true # Enable table of contents
 
 execute:
