@@ -1,5 +1,42 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings. This should be a high-level summary of the project.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#project-title",
+    "href": "index.html#project-title",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings. This should be a high-level summary of the project.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#reproduce",
+    "href": "index.html#reproduce",
+    "title": "README",
+    "section": "Reproduce",
+    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
+  },
+  {
     "objectID": "reports/article.html#data",
     "href": "reports/article.html#data",
     "title": "Article",
@@ -66,36 +103,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
-    "crumbs": [
-      "README"
-    ]
-  },
-  {
-    "objectID": "index.html#project-title",
-    "href": "index.html#project-title",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
-    "crumbs": [
-      "README"
-    ]
-  },
-  {
-    "objectID": "index.html#reproduce",
-    "href": "index.html#reproduce",
-    "title": "README",
-    "section": "Reproduce",
-    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project.",
-    "crumbs": [
-      "README"
-    ]
-  },
-  {
     "objectID": "reports/presentations.html",
     "href": "reports/presentations.html",
     "title": "Presentations",
@@ -116,12 +123,5 @@
       "Reports",
       "Presentations"
     ]
-  },
-  {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
   }
 ]
