@@ -25,5 +25,9 @@ format:
 You can add reference entries found in the `bibliography.bib` file and then cite them in your slides. For example, here is a citation to a book [@R-dplyr].
 :::
 
+## Slide 2
+
+This is a second slide.
+
 ## References
 
