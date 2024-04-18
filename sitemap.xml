@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://username.github.io/repo/index.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/index.html</loc>
+    <lastmod>2024-04-18T18:14:51.462Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/reports/slides/example.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/process/1_acquire.html</loc>
+    <lastmod>2024-04-18T18:14:51.879Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/reports/article.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/process/2_curate.html</loc>
+    <lastmod>2024-04-18T18:14:52.275Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/process/2_curate.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/process/3_transform.html</loc>
+    <lastmod>2024-04-18T18:14:52.747Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/process/3_transform.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/process/4_analyze.html</loc>
+    <lastmod>2024-04-18T18:14:53.139Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/process/1_acquire.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/reports/slides/workshop/index.html</loc>
+    <lastmod>2024-04-18T18:14:53.716Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/process/4_analyze.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/reports/prospectus.html</loc>
+    <lastmod>2024-04-18T18:15:01.379Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/reports/prospectus.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/reports/article.html</loc>
+    <lastmod>2024-04-18T18:15:08.411Z</lastmod>
   </url>
   <url>
-    <loc>https://username.github.io/repo/reports/presentations.html</loc>
-    <lastmod>2024-03-08T01:30:47.670Z</lastmod>
+    <loc>https://francojc-lin380s24.github.io/project/reports/presentations.html</loc>
+    <lastmod>2024-04-18T18:15:08.944Z</lastmod>
   </url>
 </urlset>
